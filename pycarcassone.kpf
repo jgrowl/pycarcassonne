@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="03ad1846-93d6-488d-a48f-c3646ba26160" kpf_version="4" name="pycarcassone.kpf">
+<preference-set idref="03ad1846-93d6-488d-a48f-c3646ba26160">
+  <boolean id="import_live">1</boolean>
+</preference-set>
+</project>
