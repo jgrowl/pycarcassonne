@@ -2,7 +2,7 @@
 
 __metaclass__ = type
 
-class Bag():
-    ''' Holds all playable tiles and provides utility methods '''
+class Terrain():
     def __init__(self):
         pass
+
